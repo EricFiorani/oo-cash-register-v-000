@@ -29,7 +29,6 @@ class CashRegister
     else
       "The total comes out to $#{total.to_i}."
     end
-    @total
   end
 
   def items
