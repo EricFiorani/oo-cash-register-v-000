@@ -26,7 +26,7 @@ class CashRegister
     if @discount == 0
       "There is no discount"
     else
-      "The total comes out to $#{total.to_i}."
+      "After the discount, the total comes to $#{total.to_i}."
     end
     @total
   end
