@@ -1,3 +1,5 @@
 class CashRegister
 
+
+
 end
